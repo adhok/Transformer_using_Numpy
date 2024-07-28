@@ -14,4 +14,4 @@ Using Portuguese OList product reviews, build a Numpy based transformer for emot
 * Train accuracy : 97%
 * Test accuracy : 82%
 
-![Cute cat](https://example.com/images/cute-cat.jpg)
+![Training Loss vs Epochs](https://raw.githubusercontent.com/adhok/Transformer_using_Numpy/main/output.png)
