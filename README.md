@@ -13,3 +13,5 @@ Using Portuguese OList product reviews, build a Numpy based transformer for emot
 * Time taken : 1hr 30 mins
 * Train accuracy : 97%
 * Test accuracy : 82%
+
+![Cute cat](https://example.com/images/cute-cat.jpg)
