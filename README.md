@@ -14,4 +14,14 @@ Using Portuguese OList product reviews, build a Numpy based transformer for emot
 * Train accuracy : 97%
 * Test accuracy : 82%
 
+# Optimizer Used : Adam Optimizer
+
+Optimizer Parameters
+* beta1 = 0.9
+* beta2 = 0.999
+* epsilon = 1e-8
+* learning_rate = 0.001
+
+# Training Loss vs Epochs
+
 ![Training Loss vs Epochs](https://raw.githubusercontent.com/adhok/Transformer_using_Numpy/main/output.png)
