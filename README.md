@@ -1,5 +1,5 @@
 # Transformer using Numpy
-Using Portuguese OList product reviews, build a Numpy based transformer for emotion classification. This implementation is very crude and not optimized for speed.
+Using Portuguese OList product reviews, built a Numpy based  encoder only transformer for emotion classification. This implementation is very crude and not optimized for speed.
 
 # Model specifications
 
